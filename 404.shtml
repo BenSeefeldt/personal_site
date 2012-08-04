@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="style.css">
+<style type="text/css"></style></head>
+
+<h1>[ben@seefeldt /404]$</h1>
+<ul id="list-nav">
+  <li><a href="index.html">/home</a></li>
+  <li><a href="about.html">/about</a></li>
+  <li><a href="research.html">/research</a></li>
+  <li><a href="projects.html">/projects</a></li>
+  <li><a href="journal.html">/journal</a></li>
+  <li><a href="resume.html">/r&eacute;sum&eacute;</a></li>
+  <li><a href="contact.html">/contact</a></li>
+</ul>
+</head>
+
+<body>
+
+<br>
+<br>
+<h2>/404_NotFound</h2>
+<br>
+Sorry, that file was not found. Please <a href="mailto:BenSeefeldt@gmail.com">
+email</a> me, and tell me how you got here!
+</body>
+</html>
